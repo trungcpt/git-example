@@ -1,2 +1,3 @@
 Main code
 Feature A
+Feature B
